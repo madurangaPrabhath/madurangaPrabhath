@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Maduranga Prabhath</h1>
-  <p>Passionate Software Engineer | Full Stack Developer | Tech Enthusiast</p>
+  <p>Passionate Software Engineer | Data Analysis | Full Stack Dev | Tech Enthusiast</p>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 - 🔭 I'm currently working on building innovative web applications
 - 🌱 I'm continuously learning and exploring new technologies
 - 💡 I love solving complex problems with elegant code
-- 🎯 2025 Goals: Contribute more to Open Source projects
+- 🎯 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I joined GitHub in 2023 and have been coding ever since! 
 
 ---
