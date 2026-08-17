@@ -80,14 +80,6 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-<a href="https://github.com/madurangaPrabhath">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=madurangaPrabhath&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madurangaPrabhath&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
-</a>
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madurangaPrabhath&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
